@@ -1,0 +1,106 @@
+[
+    {
+        "id": "P001",
+        "name": "Laptop",
+        "price": 1200.0,
+        "stock": 15,
+        "supplier": {
+            "supplier_id": "S001",
+            "name": "TechSource Pte Ltd",
+            "contact_email": "sales@techsource.example.com"
+        },
+        "type": "physical",
+        "weight": 2.5
+    },
+    {
+        "id": "P002",
+        "name": "Mouse",
+        "price": 25.5,
+        "stock": 60,
+        "supplier": {
+            "supplier_id": "S001",
+            "name": "TechSource Pte Ltd",
+            "contact_email": "sales@techsource.example.com"
+        },
+        "type": "physical",
+        "weight": 0.1
+    },
+    {
+        "id": "P003",
+        "name": "Keyboard",
+        "price": 45.0,
+        "stock": 25,
+        "supplier": {
+            "supplier_id": "S001",
+            "name": "TechSource Pte Ltd",
+            "contact_email": "sales@techsource.example.com"
+        },
+        "type": "physical",
+        "weight": 0.8
+    },
+    {
+        "id": "P004",
+        "name": "Monitor",
+        "price": 299.99,
+        "stock": 10,
+        "supplier": {
+            "supplier_id": "S001",
+            "name": "TechSource Pte Ltd",
+            "contact_email": "sales@techsource.example.com"
+        },
+        "type": "physical",
+        "weight": 5.0
+    },
+    {
+        "id": "P005",
+        "name": "Webcam",
+        "price": 20.0,
+        "stock": 20,
+        "supplier": {
+            "supplier_id": "S001",
+            "name": "TechSource Pte Ltd",
+            "contact_email": "sales@techsource.example.com"
+        },
+        "type": "physical",
+        "weight": 0.2
+    },
+    {
+        "id": "D001",
+        "name": "Antivirus Software",
+        "price": 49.9,
+        "stock": 100,
+        "supplier": {
+            "supplier_id": "S002",
+            "name": "SoftWorks Digital",
+            "contact_email": "orders@softworks.example.com"
+        },
+        "type": "digital",
+        "download_size": 350.0
+    },
+    {
+        "id": "P006",
+        "name": "Headphones",
+        "price": 59.9,
+        "stock": 30,
+        "supplier": {
+            "supplier_id": "S001",
+            "name": "TechSource Pte Ltd",
+            "contact_email": "sales@techsource.example.com"
+        },
+        "type": "physical",
+        "weight": 1.5
+    },
+    {
+        "id": "D002",
+        "name": "Photo Editor",
+        "price": 89.0,
+        "stock": 50,
+        "supplier": {
+            "supplier_id": "S002",
+            "name": "SoftWorks Digital",
+            "contact_email": "orders@softworks.example.com"
+        },
+        "type": "digital",
+        "download_size": 1200.0
+    }
+]
